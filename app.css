@@ -1,0 +1,10 @@
+.win, .lost {
+    padding: 20px 0;
+    border: 2px solid white;
+}
+.win {
+    background-color: rgb(111, 241, 128);
+}
+.lost {
+    background-color: rgb(253, 131, 151);
+}
